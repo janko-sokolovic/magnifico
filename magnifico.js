@@ -1,8 +1,8 @@
 /**
  * 
- * Magnify 
+ * Magnifico 
  * 
- * Version 0.1.1
+ * Version 0.1.2
  * 
  * Defaults: 
  * --- scale: 1.5
@@ -14,7 +14,7 @@
  *    var magnify = require('magnify') ( {scale:1.9, background: "#aaa",padding:"0px", borderRadius:"0px"})
  * 
  */
-var Magnify = function (options) {
+var Magnifico = function (options) {
     'use strict';
 
     var CONFIG = {
@@ -86,4 +86,4 @@ var Magnify = function (options) {
     };
 };
 
-module.exports = Magnify;
+module.exports = Magnifico;

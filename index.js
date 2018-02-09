@@ -1,6 +1,6 @@
-var magnify = require("./magnify")({
+var magnifico = require("./magnifico")({
     scale: 1.5,
     borderRadius:"0"
 });
 
-magnify.forSelector(".par");
+magnifico.forSelector(".par");

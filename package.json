@@ -1,6 +1,6 @@
 {
-    "name": "magnify",
-    "version": "0.1.1",
+    "name": " magnifico",
+    "version": "0.1.2",
     "description": "Magnify your content on mouse over",
     "main": "index.js",
     "keywords": [
