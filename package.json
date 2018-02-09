@@ -1,11 +1,12 @@
 {
     "name": " magnifico",
-    "version": "0.1.2",
+    "version": "1.0.0",
     "description": "Magnify your content on mouse over",
     "main": "index.js",
     "keywords": [
       "magnify",
       "text",
+      "magnifico",
       "zoom"
     ],
     "author": "jasofalcon",
